@@ -15,6 +15,15 @@ import java.io.InputStream;
 
 @RestController
 public class apiManager {
+    /*
+        possible improvements:
+        - add a threadpool to handles search requests
+        - write pdf directly to output stream
+        - get more pages of results from twitter
+        - statistics on tweets in pdf report
+        - db java object to hide the common db code in a tightly coupled object
+    
+    */
 
     @RequestMapping(value="/generatereport", method = RequestMethod.POST)
     public ResponseEntity<Void> startReport(@RequestBody(required=false) String searchParam){
