@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:forms:7.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/forms/7.0.5/d557b1d7ee04824c0c8f3168b5af9ecaaf3349af/forms-7.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/forms/7.0.5/936f3c2c7859ce15ff265dda6188894a6eb10da4/forms-7.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

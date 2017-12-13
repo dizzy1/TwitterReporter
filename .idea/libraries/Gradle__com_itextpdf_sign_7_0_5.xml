@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:sign:7.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/sign/7.0.5/c2d36b85f551a0bba017fa1a5292b12c2504dd47/sign-7.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/sign/7.0.5/c815d9a082a13c6f25cbe4d8c3316a544abc9e18/sign-7.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
